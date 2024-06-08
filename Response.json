@@ -1,31 +1,33 @@
 {
-    "quiz": {
-      "text": "{text}",
-      "subject": "{subject}",
-      "tone": "{tone}",
-      "questions": [
-        {
-          "question": "Question 1 text based on the provided content",
-          "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-          ],
-          "correct_answer": "Option 1"
+    "1": {
+          "mcq": "multiple choice question",
+          "options": {
+              "a": "choice here",
+              "b": "choice here",
+              "c": "choice here",
+              "d": "choice here"
         },
-        {
-          "question": "Question 2 text based on the provided content",
-          "options": [
-            "Option 1",
-            "Option 2",
-            "Option 3",
-            "Option 4"
-          ],
-          "correct_answer": "Option 2"
-        }
-        
-      ]
+        "correct": "correct answer"
+    },
+    "2": {
+        "mcq": "multiple choice question",
+        "options": {
+            "a": "choice here",
+            "b": "choice here",
+            "c": "choice here",
+            "d": "choice here"
+      },
+      "correct": "correct answer"
+    },
+    "3": {
+        "mcq": "multiple choice question",
+        "options": {
+            "a": "choice here",
+            "b": "choice here",
+            "c": "choice here",
+            "d": "choice here"
+      },
+      "correct": "correct answer"
     }
   }
   
