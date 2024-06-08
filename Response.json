@@ -1,0 +1,31 @@
+{
+    "quiz": {
+      "text": "{text}",
+      "subject": "{subject}",
+      "tone": "{tone}",
+      "questions": [
+        {
+          "question": "Question 1 text based on the provided content",
+          "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+          ],
+          "correct_answer": "Option 1"
+        },
+        {
+          "question": "Question 2 text based on the provided content",
+          "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+          ],
+          "correct_answer": "Option 2"
+        }
+        
+      ]
+    }
+  }
+  
